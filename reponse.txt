@@ -1,0 +1,11 @@
+16) docker est un un logiciel qui permet de faire de la conteneurisation.
+    c'est à dire la création de "boite" ou il est possible de créer l'image d'un OS afin de faire tourner un logiciel qui est isolé des autres.
+    Ainsi, nous n'avons pas à devoir recréer l'OS comme sur de la virtualisation.
+
+17) CI est le continuous integations qui va permettre de build tester et merge nos application. 
+   Tandis que le CD et le continuous delivery qui va permettre de lancer l'application en production par exemple.
+
+18) C'était vraiment bien et intéressant.De plus, la méthodes de loop permet de rendre le cours attractif et permet de bien comprendre les differentes notions.
+    Un des seuls cours où nous avons compris chaque commande et à quoi elle servait.
+
+19) Laissez un point bonus pour une promo super sympatique ;).
